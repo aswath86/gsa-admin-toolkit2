@@ -1,5 +1,5 @@
 # gsa-admin-toolkit2
-Google Search Appliance (GSA) - Admin tookit
+Google Search Appliance (GSA) - Admin tookit - Automating various GSA processes using JAVA 
 
 Archieve project from code.google.com - [https://code.google.com/archive/p/gsa-admin-toolkit2/](https://code.google.com/archive/p/gsa-admin-toolkit2/)
 
